@@ -1,0 +1,79 @@
+sample,group,batch,cpm_sample,cpm_gt1_gene_count
+25B701925P3R-5287-21,Infected,batch1,cfZJ-0704-25B701925P3R-5287-21,14792
+25B701926P3R-5288-22,Infected,batch1,cfZJ-0704-25B701926P3R-5288-22,14028
+25B701927P3R-5290-23,Infected,batch1,cfZJ-0704-25B701927P3R-5290-23,14647
+25B701928P3R-5291-24,Infected,batch1,cfZJ-0704-25B701928P3R-5291-24,12904
+25B701929P3R-5294-25,Infected,batch1,cfZJ-0704-25B701929P3R-5294-25,13405
+25B701930P3R-5295-26,Infected,batch1,cfZJ-0704-25B701930P3R-5295-26,14142
+25B701931P3R-5300-27,Infected,batch1,cfZJ-0704-25B701931P3R-5300-27,15234
+25B701932P3R-5302-28,Infected,batch1,cfZJ-0704-25B701932P3R-5302-28,13316
+25B701933P3R-5303-29,Infected,batch1,cfZJ-0704-25B701933P3R-5303-29,12687
+25B701934P3R-5304-30,Infected,batch1,cfZJ-0704-25B701934P3R-5304-30,13031
+25B701915P3R-5295-11,Non-infectious SIRS,batch1,cfZJ-0704-25B701915P3R-5295-11,17581
+25B701916P3R-5300-12,Non-infectious SIRS,batch1,cfZJ-0704-25B701916P3R-5300-12,15134
+25B701917P3R-5302-13,Non-infectious SIRS,batch1,cfZJ-0704-25B701917P3R-5302-13,16763
+25B701918P3R-5303-14,Non-infectious SIRS,batch1,cfZJ-0704-25B701918P3R-5303-14,15921
+25B701919P3R-5304-15,Non-infectious SIRS,batch1,cfZJ-0704-25B701919P3R-5304-15,13467
+25B701920P3R-5233-16,Non-infectious SIRS,batch1,cfZJ-0704-25B701920P3R-5233-16,13112
+25B701921P3R-5234-17,Non-infectious SIRS,batch1,cfZJ-0704-25B701921P3R-5234-17,13078
+25B701922P3R-5237-18,Non-infectious SIRS,batch1,cfZJ-0704-25B701922P3R-5237-18,15098
+25B701923P3R-5239-19,Non-infectious SIRS,batch1,cfZJ-0704-25B701923P3R-5239-19,13142
+25B701924P3R-5241-20,Non-infectious SIRS,batch1,cfZJ-0704-25B701924P3R-5241-20,15707
+ns-12,Non-infectious SIRS,batch2,ns-12,12870
+ns-21,Non-infectious SIRS,batch2,ns-21,12891
+ns-29,Non-infectious SIRS,batch2,ns-29,13158
+ns-57,Non-infectious SIRS,batch2,ns-57,16774
+ns-70,Non-infectious SIRS,batch2,ns-70,18628
+ns-71,Non-infectious SIRS,batch2,ns-71,12766
+ns-73,Non-infectious SIRS,batch2,ns-73,14681
+ns-75,Non-infectious SIRS,batch2,ns-75,15368
+ns-77,Non-infectious SIRS,batch2,ns-77,13477
+ns-79,Non-infectious SIRS,batch2,ns-79,13772
+ns-83,Non-infectious SIRS,batch2,ns-83,12139
+ns-84,Non-infectious SIRS,batch2,ns-84,19001
+ns-85,Non-infectious SIRS,batch2,ns-85,16127
+ns-86,Non-infectious SIRS,batch2,ns-86,17286
+ns-87,Non-infectious SIRS,batch2,ns-87,13459
+ns-88,Non-infectious SIRS,batch2,ns-88,13858
+ns-90,Non-infectious SIRS,batch2,ns-90,12776
+ns-91,Non-infectious SIRS,batch2,ns-91,12895
+s-79,Non-infectious SIRS,batch2,s-79,14453
+s-80,Non-infectious SIRS,batch2,s-80,18651
+25B701905P3R-5233-1,sepsis,batch1,cfZJ-0704-25B701905P3R-5233-1,12955
+25B701906P3R-5234-2,sepsis,batch1,cfZJ-0704-25B701906P3R-5234-2,13771
+25B701907P3R-5237-3,sepsis,batch1,cfZJ-0704-25B701907P3R-5237-3,12875
+25B701908P3R-5239-4,sepsis,batch1,cfZJ-0704-25B701908P3R-5239-4,15932
+25B701909P3R-5241-5,sepsis,batch1,cfZJ-0704-25B701909P3R-5241-5,15356
+25B701910P3R-5287-6,sepsis,batch1,cfZJ-0704-25B701910P3R-5287-6,12892
+25B701911P3R-5288-7,sepsis,batch1,cfZJ-0704-25B701911P3R-5288-7,12744
+25B701912P3R-5290-8,sepsis,batch1,cfZJ-0704-25B701912P3R-5290-8,15750
+25B701913P3R-5291-9,sepsis,batch1,cfZJ-0704-25B701913P3R-5291-9,18391
+25B701914P3R-5294-10,sepsis,batch1,cfZJ-0704-25B701914P3R-5294-10,16542
+S-55,sepsis,batch2,S-55,13607
+ns-59,sepsis,batch2,ns-59,17518
+ns-89,sepsis,batch2,ns-89,15514
+s-1,sepsis,batch2,s-1,13173
+s-15,sepsis,batch2,s-15,18716
+s-18,sepsis,batch2,s-18,12802
+s-19,sepsis,batch2,s-19,14623
+s-25,sepsis,batch2,s-25,15342
+s-30,sepsis,batch2,s-30,15595
+s-31,sepsis,batch2,s-31,13081
+s-32,sepsis,batch2,s-32,18728
+s-56,sepsis,batch2,s-56,13115
+s-58,sepsis,batch2,s-58,12441
+s-6,sepsis,batch2,s-6,13226
+s-60,sepsis,batch2,s-60,17573
+s-61,sepsis,batch2,s-61,15052
+s-62,sepsis,batch2,s-62,13139
+s-63,sepsis,batch2,s-63,15628
+s-65,sepsis,batch2,s-65,16599
+s-66,sepsis,batch2,s-66,16038
+s-67,sepsis,batch2,s-67,13472
+s-68,sepsis,batch2,s-68,13168
+s-69,sepsis,batch2,s-69,16578
+s-74,sepsis,batch2,s-74,15525
+s-76,sepsis,batch2,s-76,13471
+s-78,sepsis,batch2,s-78,13041
+s-81,sepsis,batch2,s-81,12639
+s-82,sepsis,batch2,s-82,12855

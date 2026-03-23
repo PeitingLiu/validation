@@ -1,0 +1,11 @@
+*.zip
+*.xlsx
+*.xls
+*.tmp
+*.log
+__pycache__/
+.idea/
+
+# Large local data files should stay out of the repo by default.
+*.png
+*.pdf
