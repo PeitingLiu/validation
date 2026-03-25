@@ -3,6 +3,8 @@
 CPM > 1 validation materials for the cfRNA delivery analysis.
 
 Contents:
+- `baseline_cleaning_validation/basic-information-statistic02.py`: baseline characteristic statistics script
+- `baseline_cleaning_validation/clean_sepsis_baseline.py`: baseline sheet cleaning script
 - `cpm_gt1_validation/analyze_cpm_gt1_groups.py`: analysis script
 - `cpm_gt1_validation/sample_cpm_gt1_gene_counts_by_group.csv`: per-sample counts
 - `cpm_gt1_validation/sample_cpm_gt1_gene_counts_stats.csv`: group-level statistics
